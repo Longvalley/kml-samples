@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Testauftrag_Regensbug</name>
+		<Placemark>
+			<name>Fahrspur</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/Y_RgXg4mEE2fsJnJkTCeMycuzQbQ1f-OcQBy0Kbnad3SKHuwXwqgdpSR3XBv3omAxy0sM2RWP2hIaycN9T8tl7idJePXLNYUJrpA7p__9AFtIbYEa2ae2K4pARWLNMSMlA" height="200" width="auto" /><br><br>Fahrspur Feldspritze]]></description>
+			<styleUrl>#line-A61B4A-1</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/Y_RgXg4mEE2fsJnJkTCeMycuzQbQ1f-OcQBy0Kbnad3SKHuwXwqgdpSR3XBv3omAxy0sM2RWP2hIaycN9T8tl7idJePXLNYUJrpA7p__9AFtIbYEa2ae2K4pARWLNMSMlA</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>12.2756499,49.221609,0.0 12.2751564,49.2221976,0.0 12.2748291,49.222548,0.0 12.2747326,49.222555,0.0 12.2735095,49.2239459,0.0 12.2723508,49.2246606,0.0 12.2722757,49.2245835,0.0 12.2734666,49.2238828,0.0 12.274636,49.2225445,0.0 12.2744858,49.2225515,0.0 12.2734022,49.2238408,0.0 12.2722435,49.2245205,0.0 12.2721791,49.2244434,0.0 12.2733164,49.2237987,0.0 12.2744215,49.2225445,0.0 12.2742605,49.2225375,0.0 12.2732413,49.2237637,0.0 12.2721469,49.2243943,0.0 12.2720826,49.2243173,0.0 12.2731555,49.2237077,0.0 12.2730482,49.2236586,0.0 12.2720826,49.2242542,0.0 12.271986,49.2241701,0.0 12.2730052,49.2236026,0.0 12.272898,49.2235325,0.0 12.2719646,49.2241141,0.0 12.2719324,49.224002,0.0 12.2728336,49.2234974,0.0 12.2727263,49.2234554,0.0 12.2718894,49.2239459,0.0 12.2718465,49.2238968,0.0 12.2726512,49.2234134,0.0 12.2725654,49.2233783,0.0 12.2717929,49.2238548,0.0 12.2717392,49.2237847,0.0 12.2725976,49.2232872,0.0 12.2732627,49.2236866,0.0 12.274164,49.2225305,0.0 12.2740245,49.2225515,0.0 12.2732306,49.2236236,0.0 12.2727048,49.2232522,0.0 12.2732091,49.2235325,0.0 12.2728014,49.2232031,0.0 12.2732735,49.2234834,0.0 12.272898,49.2231681,0.0 12.2732949,49.2234204,0.0 12.2729945,49.223105,0.0 12.2733486,49.2233433,0.0 12.2730803,49.223042,0.0 12.2734129,49.2232802,0.0 12.2731769,49.2229439,0.0 12.2734666,49.2232031,0.0 12.2733271,49.2228948,0.0 12.2734988,49.2231191,0.0 12.2734451,49.2228388,0.0 12.2735417,49.223042,0.0 12.2735739,49.2227407,0.0 12.2736919,49.2228668,0.0 12.2737777,49.2225795,0.0 12.2742605,49.2224043,0.0 12.2749043,49.2224884,0.0 12.2757089,49.2214864,0.0 12.2757626,49.221143,0.0 12.2756445,49.2207506,0.0 12.2754622,49.2197205,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Feldeinfahrt</name>
+			<styleUrl>#icon-503-009D57-nodesc</styleUrl>
+			<Point>
+				<coordinates>12.2748291,49.222548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Großer Stein - ACHTUNG!</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>12.2729623,49.2236796,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ausfahrt</name>
+			<styleUrl>#icon-503-4186F0-nodesc</styleUrl>
+			<Point>
+				<coordinates>12.2723508,49.2246606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vorsicht - Boden sackt ab!</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>12.2718251,49.2237427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-009D57-nodesc-normal'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-009D57-nodesc-highlight'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-009D57-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-009D57-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-009D57-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-4186F0-nodesc-normal'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-4186F0-nodesc-highlight'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-4186F0-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-4186F0-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-4186F0-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A61B4A-1-normal'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-A61B4A-1-highlight'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>2.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-A61B4A-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A61B4A-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A61B4A-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
